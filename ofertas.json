@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titulo": "Smart Tv Led Ken Brown 55' 4k Uhd",
+    "precio_original": 915999,
+    "precio_oferta": 757024,
+    "descuento": "17% OFF",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_892305-MLA75713426868_042024-F.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-1696339569-smart-tv-led-ken-brown-55-55kbaa-4k-uhd-android-15-60hz-_JM",
+    "categoria": "Tecnología"
+  },
+  {
+    "id": 2,
+    "titulo": "Zapatillas Topper T.350 Mesh Oliva",
+    "precio_original": 65000,
+    "precio_oferta": 52000,
+    "descuento": "20% OFF",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_824707-MLA74665406085_022024-F.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-2260323770-zapatillas-topper-t350-mesh-oliva-_JM",
+    "categoria": "Indumentaria"
+  },
+  {
+    "id": 3,
+    "titulo": "Taladro Atornillador Inalambrico 21v Gamma",
+    "precio_original": 120000,
+    "precio_oferta": 95000,
+    "descuento": "20% OFF",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_733568-MLA69502693822_052023-F.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-642773002-taladro-atornillador-inalambrico-21v-13mm-c-percutor-gamma-celeste-50-_JM",
+    "categoria": "Herramientas"
+  },
+  {
+    "id": 4,
+    "titulo": "Auriculares Inalámbricos JBL Tune 520bt",
+    "precio_original": 84999,
+    "precio_oferta": 65999,
+    "descuento": "22% OFF",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_995400-MLA69502949021_052023-F.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-1400267232-auriculares-inalambricos-jbl-tune-520bt-negro-_JM",
+    "categoria": "Tecnología"
+  }
+]
